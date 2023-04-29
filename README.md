@@ -43,7 +43,7 @@ public:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,aftereffects,vscode,c,cs,cpp,js,css,html" />
+    <img src="https://skillicons.dev/icons?i=python,aftereffects,vscode,c,cpp,js,css,html" />
   </a>
 </p>
 
