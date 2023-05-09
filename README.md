@@ -29,7 +29,7 @@ public:
         std::map<std::string, std::vector<std::string>> langs = {
             {"expert", {"C++"}},
             {"intermediate", {"C++"}},
-            {"learning", {"C", "C++", "JavaScript", "CSS"}}
+            {"learning", {"C", "C++", "JavaScript", "CSS" , "NodeJs" , "ExpressJs" , "JQuery"}}
         };
         std::vector<std::string> specialities  = {"fullstack"};
         std::vector<std::string> environnement = {"VSCode"};
