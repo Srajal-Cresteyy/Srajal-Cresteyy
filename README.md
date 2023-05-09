@@ -25,7 +25,8 @@ public:
         return std::make_tuple(langs, nationalities, age);
     }
     
-    static std::tuple<std::map<std::string, std::vector<std::string>>, std::vector<std::string>, std::vector<std::string>> coding() {
+    static std::tuple<std::map<std::string, std::vector<std::string>>, std::vector<std::string>
+    , std::vector<std::string>> coding() {
         std::map<std::string, std::vector<std::string>> langs = {
             {"expert", {"C++"}},
             {"intermediate", {"C++"}},
